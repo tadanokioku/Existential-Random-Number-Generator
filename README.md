@@ -1,4 +1,4 @@
-# existentialRandomNumberGenerator
+# Existential Random Number Generator
 This repository was created in order to take part in Ukraine's Best Shitty Code Competition held by Robot Dreams 😎
 
 ### Documentation for the Existential Random Number Generator Code
