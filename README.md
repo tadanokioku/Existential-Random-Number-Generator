@@ -1,5 +1,5 @@
 # existentialRandomNumberGenerator
-This repository was created in order to take part in Ukraine's Best Shitty Code Challenge by Robot Dreams 😎
+This repository was created in order to take part in Ukraine's Best Shitty Code Competition held by Robot Dreams 😎
 
 ### Documentation for the Existential Random Number Generator Code
 
@@ -8,7 +8,7 @@ This repository was created in order to take part in Ukraine's Best Shitty Code 
 **Title:** Existential Random Number Generator
 
 **Description:**
-This code prompts the user to generate a random number from 1 to 100 by asking them to input a number of their choice. After displaying this number, it answers the philosophical question of whether robots can defeat humankind.
+This code prompts the user to generate a random number from 1 to 100 by asking them to input a number of their choice. After displaying this number, it answers the existential question of whether robots can defeat humankind.
 
 **Language:** TypeScript
 
@@ -25,8 +25,8 @@ var randomNumber = (confirm("To generate a random number from 1 to 100, press OK
 **Usage:**
 1. When the code is executed, a confirmation dialog appears, asking the user to press "OK" to generate a random number.
 2. If the user confirms, a prompt appears asking them to think of a number from 1 to 100 and enter it.
-3. An alert displays the number the user entered as a random number the user wanted to generate.
-4. A second alert answers the question about robots defeating humankind.
+3. An alert displays the number that user entered as a random number the user wanted to generate.
+4. A second alert answers the existential question about robots' ability to defeat humankind.
 
 ---
 
@@ -38,4 +38,4 @@ var randomNumber = (confirm("To generate a random number from 1 to 100, press OK
 ---
 
 **Notes:**
-- This code is a solution to both number 1 and number 4 problems, presented by Robot Dreams in their Suggested Problems List.
+- This code is a solution to both number 1 and number 4 problems, presented by Robot Dreams in their Suggested Problems List for the Ukraine's Best Shitty Code Competition.
