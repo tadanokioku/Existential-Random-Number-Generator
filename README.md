@@ -23,10 +23,12 @@ var randomNumber = (confirm("To generate a random number from 1 to 100, press OK
 ---
 
 **Usage:**
-1. When the code is executed, a confirmation dialog appears, asking the user to press "OK" to generate a random number.
-2. If the user confirms, a prompt appears asking them to think of a number from 1 to 100 and enter it.
-3. An alert displays the number that user entered as a random number the user wanted to generate.
-4. A second alert answers the existential question about robots' ability to defeat humankind.
+
+1. This code can be executed simply in a Web Browser Console.
+2. When the code is executed, a confirmation dialog appears, asking the user to press "OK" to generate a random number.
+3. If the user confirms, a prompt appears asking them to think of a number from 1 to 100 and enter it.
+4. An alert displays the number that user entered as a random number the user wanted to generate.
+5. A second alert answers the existential question about robots' ability to defeat humankind.
 
 ---
 
