@@ -17,7 +17,7 @@ This code prompts the user to generate a random number from 1 to 100 by asking t
 **Code:**
 
 ```javascript
-var randomNumber = (confirm("To generate a random number from 1 to 100, press OK") && (alert(`The random number is: ${prompt("Think of a number from 1 to 100, then input it below:")}`), alert("By the way, what was that question again? Could a robot defeat humankind? Hmm... I figure the answer is obvious now, peasant.")));
+var randomNumber = confirm("To generate a random number from 1 to 100, press OK") && (alert(`The random number is: ${prompt("Think of a number from 1 to 100, then input it below:")}`), alert("By the way, what was that question again? Could a robot defeat humankind? Hmm... I figure the answer is obvious now, peasant."));
 ```
 
 ---
